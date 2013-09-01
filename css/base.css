@@ -70,3 +70,7 @@ section
 	color: #222;
 	font-weight: bold;
 }
+[class^="icon-"],
+[class*=" icon-"] {
+  margin-right: 5px;
+}
